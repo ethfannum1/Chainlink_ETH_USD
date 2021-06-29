@@ -27,3 +27,27 @@ After that lets install Chainlink package in order to get access to AggregatorV3
 And finally, using again Brownie, enter Rinkeby testnet.
 
 [![](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/4.jpg)](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/4.jpg)
+
+
+------------
+
+
+Now using Brownie, I compile the smart contract and the interface:
+
+[![](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/5.jpg)](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/5.jpg)
+
+Now using again Brownie, I deploy the smart contract in the Rinkeby testnet:
+
+[![](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/6.jpg)](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/6.jpg)
+
+And finally using Brownie, I call the smart contract function in order to get the Ethereum price given by Chainlink contract:
+
+[![](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/7.jpg)](https://github.com/ethfannum1/Chainlink_ETH_USD/blob/main/7.jpg)
+
+
+------------
+
+This is an easy example about how to handle Chainlink contracts.
+
+Thanks and let's see in next respository with more examples.
+
